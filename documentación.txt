@@ -1,0 +1,21 @@
+Descripción:
+El la pestaña contactos se encotraran todos los datos necesarios para contactarse 
+con la empresa asi como las redes Sociales y el contacto directo con cada integrante de Xortech.
+codigos utilizados:
+background	<body>, <table>, <td>,<th>	Especifica la URL de un archivo de imagen.
+
+color	<font>,<hr>	
+
+Este atributo establece el color del texto usando un color con nombre o un color especificado en el formato hexadecimal #RRGGBB.
+
+href	<a>, <area>, <base>,<link>	La URL de un recurso vinculado.
+
+list	<input>	Identifica una lista de opciones predefinidas para sugerir al usuario.
+
+src	<audio>, <embed>, <iframe>, <img>, <input>, <script>, <source>, <track>,<video>	La URL del contenido insertable.
+
+style	Atributo global	Define estilos CSS que anularán los estilos establecidos previamente.
+
+target	<a>, <area>, <base>,<form>	Especifica dónde abrir el documento vinculado (en el caso de un <a>elemento) o dónde mostrar la respuesta recibida (en el caso de un <form>elemento)
+
+title	Atributo global	Texto que se mostrará en una información sobre herramientas al pasar el cursor sobre el elemento.
