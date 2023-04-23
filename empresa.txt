@@ -1,0 +1,58 @@
+<html>
+	<head>
+		<title> Acerca de nosotros </title>
+	</head> 
+	<body background="Fondo web.jpeg">
+		<span style="color:#ff963f"> <h1 style="text-align:center"> Misión </h1> </span>
+		<span style="color:#FFFFFF"><p style="text-align:center"> Crear herramientas tecnológicas que simplifiquen y soporten la labor 
+		diaria de nuestros clientes, <br> adentrándolos al renacimiento tecnológico</p></span>
+
+
+		<span style="color:#ff963f"><h1 style="text-align:center"> Visión </h1></span>
+		<span style="color:#FFFFFF"><p style="text-align:center"> Ser una de las empresas posicionadas como referentes de soluciones 	
+		tecnológicasen <br> nuestro país y líderes de las mismas en la región del altiplano guatemalteco, <br>
+		reconocidos por la ideología que poseemos y nos hace destacar</p></span>
+
+
+		<span style="color:#ff963f"><h1 style="text-align:center"> El futuro </h1> </span>		
+		<span style="color:#FFFFFF"><li style="text-align:center">Posicionarnos como una empresa líder en la ciudad y en la región del 
+		altiplano guatemalteco.</li></span>
+		<span style="color:#FFFFFF"><li style="text-align:center">Ampliar nuestro portafolio y nuestra cartera de clientes.</li></span>
+		<span style="color:#FFFFFF"><li style="text-align:center">Colaborar con empresas de talla internacional.</li></span>
+		
+
+		<span style="color:#ff963f"><h1 style="text-align:center"> Equipo </h1> </span>
+		<ol style="text-align:center"> 
+		<img src="Imagenes N/Marga.jpg"
+			alt=" Ing. Margarita Amézquita -> COO. ( mamezquita@xortech.dev ). "
+			width="400"
+     			height="500">
+		<span style="color:#FFFFFF"><p> Ing. Margarita Amézquita ella es ingeniera industrial y es nuestra Chief Operating Officer 	
+		(COO) encargada de <br> la parte administrativa y de gestión de !XOR, vela por los procesos y operaciones dentro de la empresa 
+		y aporta con su <br> gran creatividad al equipo. </p></span>
+		<img src="Imagenes N/Juanmi.jpg"
+			alt=" Ing. Juan Miguel de León -> Co-founder; frontend developer ( jmdeleon@xortech.dev ). "
+			width="400"
+     			height="500">
+		<span style="color:#FFFFFF"><p> Ing. Juan Miguel de León él es Ingeniero en Informática y Sistemas, nuestro Frontend Developer 
+		y también el encargado de todas <br> las relaciones interempresariales de !XOR. Él tiene a su cargo plantear y promover que en 
+		los proyectos que <br> tengamos no se nos pase nada y cumplamos siempre nuestos objetivos. Gestiona toda la parte del talento 
+		que poco a poco <br> vamos introduciendo a nuesto equipo y cómo es que puede obtener lo mejor de cada uno de nosotros.</p></span>
+		<img src="Imagenes N/Hugo.jpg"
+			alt=" Ing. Hugo Lucas -> Co-founder; UX / UI developer ( hdlucas@xortech.dev ). "
+			width="400"
+     			height="500">		
+		<span style="color:#FFFFFF"><p> Ing. Hugo Lucas él es Ingeniero en Informática y Sistemas y es nuestro UX / UI Developer y 	
+		también es soporte en planeación estratégica. <br> Él tiene a su cargo diseñar la interacción y la experiencia de usuario de 	
+		los sistemas que creamos en !XOR.</p></span>
+		<img src="Imagenes N/Juanpa.jpg"
+			alt=" Ing. Juan Pablo Monroy -> Co-founder; backend developer ( jpmonroy@xortech.dev ). "
+			width="400"
+     			height="500">
+		<span style="color:#FFFFFF"><p> Juan Pablo Monroy él es Ingeniero en Informática y Sistemas y es nuestro back-end developer, 	
+		sysadmin y soporte financiero. <br> Él es encargado de la parte lógica de los sistemas que creamos en !XOR, así como su 	
+		publicación Internet.</p></span>
+		</ol>
+
+</body>      
+</html> 
